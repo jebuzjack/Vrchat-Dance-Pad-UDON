@@ -1,5 +1,7 @@
-Version 2.0:
-Full Body Tracking Support
+This is still a work in progress conversion to UDON. Things are broken right now.
+
+Version 3.0:
+Fix for UDON
 
 
 
@@ -8,9 +10,12 @@ Full Body Tracking Support
 An InStation pad that relys on Final IK to disable Fullbody tracking for dance animations
 
 # Things to have imported before using
-1. VRCHAT VRCSDK
-2. FINAL IK (I used 1.6.1 but newer versions should be fine)
 
+Required | Link
+------------ | -------------
+VRC UDON SDK | https://vrchat.com/home/download
+CyanTriggers | Not publicly avaiable yet
+FINAL IK | https://assetstore.unity.com/packages/tools/animation/final-ik-14290
 
 # How to Use
 1. Extract the Prefab Folder and Meta file into the ASSETS folder
@@ -23,18 +28,9 @@ An InStation pad that relys on Final IK to disable Fullbody tracking for dance a
 3. Add your dance animation to the 'CustomDance' Override Controller
 4. Bam! You're done, have a cupcake.
 
-
-
 # Credits
-Splinks 	- For spending 4 weeks to find out that Final IK Components were togglable in animations -_- FML
 
-CyanBlue	- For making the spiffy animation merger script located in the tools folder
-
-★Megumin★	- For adding viseme fixes
-
-
-# Rules
-If you find this prefab helpful in anyway all I ask is just a simple credit somewhere or a "thanks buddy" message to Splinks#0325 over at Discord. 
-
-Or if for some reason you feel like tipping me I have a paypal. 
-paypal.me/splinks
+- jebuzjack: Setting up the DancePad for UDON
+- Splinks: For making the original version forked from Github https://github.com/splinks/Vrchat-Dance-Pad
+- CyanBlue: For making the animation merger script located in the tools folder
+- ★Megumin★: For adding viseme fixes
