@@ -13,8 +13,8 @@ An InStation pad that relys on Final IK to disable Fullbody tracking for dance a
 
 Required | Link
 ------------ | -------------
-VRC UDON SDK | https://vrchat.com/home/download
-CyanTriggers | Not publicly avaiable yet
+VRC SDK3 Worlds | https://vrchat.com/home/download
+CyanTriggers | https://cyanlaser.booth.pm/items/3194594
 FINAL IK | https://assetstore.unity.com/packages/tools/animation/final-ik-14290
 
 # How to Use
